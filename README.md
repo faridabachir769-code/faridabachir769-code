@@ -14,7 +14,7 @@ pursuing graduate research in AI, then cybersecurity and penetration testing.
 - **Backend:** FastAPI, Python
 - **Frontend:** React, Vite, Next.js
 - **Data and AI:** Supabase, Groq API, LangGraph
-- **Interests:** AI agents, application security, ethical hacking
+- **Interests:** AI/ML, application security, ethical hacking
 
 ## Education
 
