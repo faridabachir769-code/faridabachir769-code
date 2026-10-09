@@ -1,16 +1,27 @@
 ## Hi there 👋
+# Farida
 
-<!--
-**faridabachir769-code/faridabachir769-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Computer Science and Information Technology student at Université Islamique au Niger (Niamey, Niger).
+Full-stack developer focused on artificial intelligence and cybersecurity.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications and AI-powered tools, with a long-term goal of
+pursuing graduate research in AI, then cybersecurity and penetration testing.
+
+## Technical skills
+
+- **Backend:** FastAPI, Python
+- **Frontend:** React, Vite, Next.js
+- **Data and AI:** Supabase, Groq API, LangGraph
+- **Interests:** AI agents, application security, ethical hacking
+
+## Education
+
+B.Sc. in Computer Science and Information Technology, Université Islamique au Niger
+(expected June 2028)
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/farida-bachir-b88b46389
+- Email: fbachir323@gmail.com
