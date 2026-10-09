@@ -24,4 +24,4 @@ B.Sc. in Computer Science and Information Technology, Université Islamique au N
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/farida-bachir-b88b46389
-- Email: fbachir323@gmail.com
+- Professional Email: fbachir323@gmail.com
