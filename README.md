@@ -7,7 +7,7 @@ Full-stack developer focused on artificial intelligence, machine learning and cy
 ## About
 
 I build web applications and AI-powered tools, with a long-term goal of
-pursuing graduate research in AI, then cybersecurity and penetration testing.
+pursuing graduate research in master of AI/ML, then PHD in cybersecurity and penetration testing.
 
 ## Technical skills
 
@@ -18,7 +18,7 @@ pursuing graduate research in AI, then cybersecurity and penetration testing.
 
 ## Education
 
-B.Sc. in Computer Science and Information Technology, Université Islamique au Niger
+B.Sc. in Computer Science and Information Technology, Islamic University of Niger
 (expected June 2028)
 
 ## Contact
