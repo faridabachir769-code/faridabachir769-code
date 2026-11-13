@@ -2,7 +2,7 @@
 # Farida
 
 Third-year Computer Science and Information Technology student at Université Islamique au Niger (Niamey, Niger).
-Full-stack developer focused on artificial intelligence and cybersecurity.
+Full-stack developer focused on artificial intelligence, machine learning and cybersecurity.
 
 ## About
 
